@@ -5,5 +5,5 @@ python:
 install:
 #  - pip install -r requirements.txt --use-mirrors
   - pip install toopher
-# command to run tests
+
 script: python tests.py
